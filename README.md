@@ -3,6 +3,7 @@
 This includes of the following resources:
 - Virtual private cloud
 - Subnets (Public, Private)
+
 - IAM Role with AmazonSSMFullAccess
 - Interface Endpoint (ssm, ssmmessages, ec2messages)
 
